@@ -27,11 +27,11 @@ Bard Ermentrout's website [http://www.pitt.edu/~phase/](http://www.pitt.edu/~pha
 
 ## These model files were submitted by:
 
-Ming-Wei Lin, Ya-Jean Wan, An-An Lin and Sheng-Nan Wu
+Ming-Wei Lin, Ya-Jean Wan, An-An Lin and Sheng-Nan Wu  
 Institute of Basic Medical Sciences and
-Department of Physiology,
-National Cheng Kung University Medical Center
-Tainan 70101, Taiwan
+Department of Physiology,  
+National Cheng Kung University Medical Center  
+Tainan 70101, Taiwan  
 snwu@mail.ncku.edu.tw
 
 ---
